@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "steam-cards@mikedrewett.com": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://mikedrewett.github.io/firefox-extensions/steam-cards/releases/steam-cards-1.0.xpi",
+          "browser_specific_settings": {
+            "gecko": {
+              "strict_min_version": "48.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
