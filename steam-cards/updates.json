@@ -46,6 +46,24 @@
               "strict_min_version": "48.0"
             }
           }
+        },
+        {
+          "version": "1.41",
+          "update_link": "https://mikedrewett.github.io/firefox-extensions/steam-cards/releases/steam-cards-1.41.xpi",
+          "browser_specific_settings": {
+            "gecko": {
+              "strict_min_version": "48.0"
+            }
+          }
+        },
+        {
+          "version": "1.42",
+          "update_link": "https://mikedrewett.github.io/firefox-extensions/steam-cards/releases/steam-cards-1.42.xpi",
+          "browser_specific_settings": {
+            "gecko": {
+              "strict_min_version": "48.0"
+            }
+          }
         }
       ]
     }
