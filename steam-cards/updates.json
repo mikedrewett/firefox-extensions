@@ -85,7 +85,7 @@
         },
         {
           "version": "1.60",
-          "update_link": "https://mikedrewett.github.io/firefox-extensions/steam-cards/releases/steam-cards-1.6.xpi",
+          "update_link": "https://mikedrewett.github.io/firefox-extensions/steam-cards/releases/steam-cards-1.60.xpi",
           "browser_specific_settings": {
             "gecko": {
               "strict_min_version": "48.0"
